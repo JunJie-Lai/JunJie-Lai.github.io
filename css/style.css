@@ -293,6 +293,7 @@ section > ul > li:hover {
 
 ul li a {
 	display: block;
+	width: inherit;
 	padding: 0.5rem 1rem 1rem 1rem;
 }
 
